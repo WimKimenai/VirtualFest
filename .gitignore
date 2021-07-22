@@ -77,3 +77,20 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+!Pipeline/**
+Pipeline/Steam/ContentBuilder/content/*
+Pipeline/Steam/ContentBuilder/output/*
+Pipeline/Steam/ContentBuilder/server/*
+Pipeline/Steam/ContentBuilder/builder/**
+Pipeline/*.exe
+!Pipeline/Steam/ContentBuilder/builder/config/**
+!Pipeline/Steam/ContentBuilder/builder/userdata/**
+!Pipeline/Steam/ContentBuilder/builder/ssfn*
+!Pipeline/Steam/ContentBuilder/builder/steamcmd.exe
+
+Compile/*
+
+/windows-client**/**
+/windows-server**/**
+/WindowsNoEditor/**
