@@ -1,0 +1,1 @@
+"M:\UnrealEngine-4.26.1-release\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun -project="M:\Github\FestivalTest\MyProject6.uproject" -noP4 -platform=Win64 -clientconfig=Development -serverplatform=Win64 -serverconfig=Shipping -cook -server -NoCompile -stage -pak -archive -archivedirectory="M:\Final Output"

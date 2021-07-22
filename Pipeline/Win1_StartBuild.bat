@@ -1,0 +1,1 @@
+"M:\UnrealEngine-4.26.1-release\Engine\Binaries\DotNET\UnrealBuildTool.exe" -projectfiles -project="M:\Github\VirtualFest\GameConcept.uproject" -game -rocket -progress
