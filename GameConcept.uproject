@@ -9,10 +9,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "DMXFixtures",
-			"Enabled": true
-		},
-		{
 			"Name": "DMXPixelMapping",
 			"Enabled": true
 		},
@@ -22,6 +18,10 @@
 		},
 		{
 			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXFixtures",
 			"Enabled": true
 		}
 	]
