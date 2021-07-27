@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FileManAdvanced",
+	"Description": "An advanced file manager for blueprints.",
+	"Category": "Blueprints",
+	"CreatedBy": "Aaron Hunt",
+	"CreatedByURL": "https://github.com/anhuntz",
+	"DocsURL": "https://github.com/anhuntz",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/074bb96d3dac4b70a16943022d335401",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "FileManAdvanced",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Linux"
+			]
+		}
+	]
+}
